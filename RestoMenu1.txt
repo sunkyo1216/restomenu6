@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Our Restaurant</h1>
+    </header>
+
+    <section class="menu">
+        <h2>Menu</h2>
+
+        <div class="menu-item">
+            <h3 class="item-name">Grilled Salmon</h3>
+            <p class="item-description">Freshly grilled salmon served with seasonal vegetables.</p>
+            <p class="item-price">$15.99</p>
+        </div>
+
+        <div class="menu-item">
+            <h3 class="item-name">Chicken Alfredo Pasta</h3>
+            <p class="item-description">Creamy Alfredo sauce tossed with grilled chicken and fettuccine pasta.</p>
+            <p class="item-price">$12.99</p>
+        </div>
+
+        <div class="menu-item">
+            <h3 class="item-name">New York Cheesecake</h3>
+            <p class="item-description">Classic New York-style cheesecake topped with fresh berries.</p>
+            <p class="item-price">$7.99</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Restaurant Name. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
